@@ -1,6 +1,6 @@
 # learning
 
-> learing udemy
+> learing lession 3
 
 ## Build Setup
 
